@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+C:\Users\dough\AppData\Local\TempReleases\Snapshot\1\Sources\Pick Place\Pick Place for NFC.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/09/22
+Time:       13:28
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C2","DNI","TopLayer","CAPC2013X140X50ML20T25","28.5750","44.9580","0",""
+"R7","4K7 0805","TopLayer","YAGO-RC0805_M","26.0350","33.0200","90","General Puprose Chip Resistor, 4700 Ohm +/- 1%, 0.125 W, -55 to 155 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"R6","4K7 0805","TopLayer","YAGO-RC0805_M","14.4780","40.2590","0","General Puprose Chip Resistor, 4700 Ohm +/- 1%, 0.125 W, -55 to 155 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"R5","RC0805JR-070RL","TopLayer","RESC2013X60X35ML10T20","27.0510","29.3370","180","Chip Resistor, 0 Ohm, Jumper, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R4","RC0805JR-070RL","TopLayer","RESC2013X60X35ML10T20","30.6070","35.1630","270","Chip Resistor, 0 Ohm, Jumper, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R3","RC0805JR-070RL","TopLayer","RESC2013X60X35ML10T20","19.9390","37.0840","180","Chip Resistor, 0 Ohm, Jumper, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R2","0R DNI","TopLayer","RESC2013X60X35ML10T20","19.9390","40.2590","180","Chip Resistor, 0 Ohm, Jumper, +/- 5%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"P1","653105124022","TopLayer","653105124022","3.5410","32.8930","270","Male Shrouded Header WR-WTB, SMT, Vertical, pitch 1.25 mm, 1 x 5 position"
+"RT1","NT3H1101W0FTTJ","TopLayer","SOP65P490X110-8N","28.4480","39.4970","0","Thermistor"
+"R1","75R","TopLayer","RESC2013X50X30LL20T20","28.3210","25.2730","270",""
+"PWR","LTST-S270KGKT","TopLayer","AVAG-HSMX-C190_V","28.3211","13.9699","270","LED Uni-Color Yellow, 65 mW, 20 mA, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"C1","220nF","TopLayer","FP-CC0805-0_85-MFG","34.6710","39.6240","0","CAP CER 0.22UF 16V X7R 0805"

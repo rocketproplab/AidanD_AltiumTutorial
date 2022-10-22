@@ -1,0 +1,5 @@
+4
+1  15000000 sfFalse cerTrue tctFalse freq_0/
+2  20000000 sfFalse cerTrue tctFalse freq_1/
+3  10000000 sfFalse cerTrue tctFalse freq_2/
+4  12500000 sfFalse cerTrue tctFalse freq_3/

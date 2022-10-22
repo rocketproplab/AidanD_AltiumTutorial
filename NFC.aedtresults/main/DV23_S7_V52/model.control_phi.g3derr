@@ -1,0 +1,56 @@
+G3dErrFileVersion 2018P3.1
+FlagFileMetaData Begin
+   Phi mesher report :Title    
+   This report is created by the Phi mesher making volume mesh. :ToolTip  
+   Classic :Author   
+   1663621716 :TimeStamp
+FlagFileMetaData End
+BEGIN_ERR 
+26 Low quality, low aspect ratio, low altitude elements.
+ Low quality, low aspect ratio, low altitude elements. 
+ INFO: Found 0 inverted tets, 1 low aspect ratio tets and 0 low altitude tets in body 73 airbox 
+1 -1  # nfids, fids[]
+1 73  # nbids, bids[]
+      1 0 0 0 #ntets ntri ned npts
+           2.7051000000000016e+01   9.2347658178256623e+01   4.8852074000000006e-01 #xyz tv0
+          -1.4695714285714132e+00   9.8729799999999997e+01   4.8092106000000001e-01 #xyz tv1
+          -1.2877800000000001e+01   9.8729799999999997e+01   4.8092106000000001e-01 #xyz tv2
+           0.0000000000000000e+00   8.5852000000000004e+01   4.9612042000000001e-01 -1 73 #xyz tv3 fid bid
+   0   0.000000000000e+00   0.000000000000e+00   0.000000000000e+00 #flag location
+END_ERR 
+G3dErrFileVersion 2018P3.1
+FlagFileMetaData Begin
+   Low quality elements 0 pass of QImprove :Title    
+   If all the low quality elements were improved, there might not be a final report or it will be empty :ToolTip  
+   Classic :Author   
+   1663621716 :TimeStamp
+FlagFileMetaData End
+BEGIN_ERR 
+26 Low quality, low aspect ratio, low altitude elements.
+ Low quality, low aspect ratio, low altitude elements. 
+ INFO: Found 0 inverted tets, 1 low aspect ratio tets and 0 low altitude tets in body 73 airbox 
+1 -1  # nfids, fids[]
+1 73  # nbids, bids[]
+      1 0 0 0 #ntets ntri ned npts
+           2.7051000000000016e+01   9.2347658178256623e+01   4.8852074000000006e-01 #xyz tv0
+          -1.4695714285714132e+00   9.8729799999999997e+01   4.8092106000000001e-01 #xyz tv1
+          -1.2877800000000001e+01   9.8729799999999997e+01   4.8092106000000001e-01 #xyz tv2
+           0.0000000000000000e+00   8.5852000000000004e+01   4.9612042000000001e-01 -1 73 #xyz tv3 fid bid
+   0   0.000000000000e+00   0.000000000000e+00   0.000000000000e+00 #flag location
+END_ERR 
+G3dErrFileVersion 2018P3.1
+FlagFileMetaData Begin
+   Final Report of Quality Improvement process :Title    
+   All elements are good. :ToolTip  
+   Classic :Author   
+   1663621719 :TimeStamp
+FlagFileMetaData End
+BEGIN_ERR 
+26 Final report of Qimprove
+ Final report of Qimprove 
+ All elements have good aspect ratio and good altitude, nothing to report 
+0 # nfids, fids[]
+0 # nbids, bids[]
+      0 0 0 0 #ntets ntri ned npts
+   0   0.000000000000e+00   0.000000000000e+00   0.000000000000e+00 #flag location
+END_ERR 
